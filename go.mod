@@ -1,4 +1,4 @@
-module github.com/onexstack/onexstack
+module github.com/ydcloud-dy/publicPkg
 
 go 1.23.5
 
